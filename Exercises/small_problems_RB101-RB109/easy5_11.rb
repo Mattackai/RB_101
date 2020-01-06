@@ -1,0 +1,1 @@
+#A new object will be returned because once you call .split, it is impossible to get the original object back.
